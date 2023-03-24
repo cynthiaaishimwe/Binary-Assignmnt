@@ -1,0 +1,17 @@
+    // Given an array of unsorted numbers, return the index of the following target if the target exists in the array. If the target is not found, return null
+// let num = [45,12,6,89,2,5]
+// let target = 6
+
+// Merge Sort Implentation (Recursion)
+function mergeSort (unsortedArray) {
+
+}
+  
+  if (unsortedArray.length <= 1) {
+    return unsortedArray;
+  }
+
+  const middle = Math.floor(unsortedArray.length)
+
+  
+
